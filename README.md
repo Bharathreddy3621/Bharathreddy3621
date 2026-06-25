@@ -21,8 +21,8 @@
 
 <ul>
   <li>&#129504; I enjoy solving problems with clear thinking, strong DSA fundamentals, and a calm approach.</li>
+  <li>&#129304;passionate about developing reliable web applications, solving real-world problems, and continuously learning modern technologies.</li>
   <li>&#129302; I like building machine learning and computer vision projects that feel practical, not just experimental.</li>
-  <li>&#128202; I enjoy working with data using Pandas, NumPy, and PySpark to uncover useful patterns.</li>
   <li>&#128640; I like shipping clean, scalable code across backend, analytics, and AI workflows.</li>
 </ul>
 
