@@ -33,6 +33,12 @@
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  </a>
 </p>
 
 <h3>Backend</h3>
